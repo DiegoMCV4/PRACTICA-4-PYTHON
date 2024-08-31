@@ -1,0 +1,8 @@
+Nombre: Diego Martín
+Apellidos: Cruz Vázquez
+Edad: 18 años
+Estatura: 1.70
+Teléfono: 9681270378
+Género: Hombre
+
+
